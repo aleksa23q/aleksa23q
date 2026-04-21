@@ -1,9 +1,9 @@
 ## Aleksa Profile 
-
+![Intensity over time graph](megashark_aleksa.png)
 <!--
 **aleksa23q/aleksa23q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Intensity over time graph](megashark_aleksa.png)
+
 
 Here are some ideas to get you started:
 
