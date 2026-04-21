@@ -3,7 +3,7 @@
 <h1 align = "center">Hi there, I’m Aleksa. </h1>
 
 
-I am a PhD candidate :microbe: working on synthetic cell models :test_tube: to answer important biological questions :brain:. My work has taken me to the intersection of wet-lab biology :microscope: and data science :computer:, and as a self-taught pythonista :snake: I am always looking for new things to learn  :mortar_board:. Head [here](insert link) to find out a little more about my science :woman_scientist:,  otherwise read on for more about my code creations :woman_technologist:. 
+I am a PhD candidate :microbe: working on synthetic cell models :test_tube: to answer important biological questions :brain:. My work has taken me to the intersection of wet-lab biology :microscope: and data science :computer:, and as a Dezerae-taught pythonista :snake: I am always looking for new things to learn  :mortar_board:. Head [here](insert link) to find out a little more about my science :woman_scientist:,  otherwise read on for more about my code creations :woman_technologist:. 
 
 
 ### [Publication repositories](README_complete.md/#publication-repositories)
